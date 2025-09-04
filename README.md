@@ -1,2 +1,19 @@
-# HR-Onboarding-Automation
-This project is a demo HR onboarding app built for learning and portfolio purposes. It does not contain real employee data.
+# 👩‍💼 HR Onboarding Automation System
+
+A simple **Streamlit app** that automates the HR onboarding process.  
+It generates employee IDs, stores new hire data, and sends a welcome message.
+
+---
+
+## 🚀 Features
+- Add new employees via a form
+- Auto-generate unique **Employee IDs** (`DEPT-Initials####`)
+- Save records to **Excel** (`new_hires.csv`)
+- Generate a **Welcome Message** for each employee
+
+---
+
+## 📸 Screenshots
+
+### ➕ Employee Form
+![Form](screenshots/form.png)

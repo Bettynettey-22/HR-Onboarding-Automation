@@ -5,7 +5,7 @@ It generates employee IDs, stores new hire data, and sends a welcome message.
 
 ---
 
-## 🚀 Features
+## 🖊️ Features
 - Add new employees via a form
 - Auto-generate unique **Employee IDs** (`DEPT-Initials####`)
 - Save records to **Excel** (`new_hires.csv`)

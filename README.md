@@ -17,5 +17,5 @@ It generates employee IDs, stores new hire data, and sends a welcome message.
 
 ![Form](form.png)
 
-![Form](welcomemessage.png)
+![Form](welcome_message.png)
 
